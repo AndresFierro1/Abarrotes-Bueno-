@@ -1,0 +1,6 @@
+Escoba,120,8
+Galletas,20,50
+Refresco,25,60
+Papel Higienico,15,20
+Cereales,35,15
+

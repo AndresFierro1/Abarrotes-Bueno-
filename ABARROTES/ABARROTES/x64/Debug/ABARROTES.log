@@ -1,0 +1,8 @@
+﻿  ABARROTES.cpp
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\ABARROTES\ABARROTES\ABARROTES.cpp(189,40): warning C4101: 'e': variable local sin referencia
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\ABARROTES\ABARROTES\ABARROTES.cpp(192,36): warning C4101: 'e': variable local sin referencia
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\ABARROTES\ABARROTES\ABARROTES.cpp(411,40): warning C4101: 'e': variable local sin referencia
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\ABARROTES\ABARROTES\ABARROTES.cpp(414,36): warning C4101: 'e': variable local sin referencia
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\ABARROTES\ABARROTES\ABARROTES.cpp(444,40): warning C4101: 'e': variable local sin referencia
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\ABARROTES\ABARROTES\ABARROTES.cpp(447,36): warning C4101: 'e': variable local sin referencia
+  ABARROTES.vcxproj -> C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\ABARROTES\x64\Debug\ABARROTES.exe
